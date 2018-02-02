@@ -404,7 +404,7 @@ upchuck operator."
   
   (setq major-mode 'chuck-mode)
   (setq mode-name "ChucK")
-  (setq default-tab-width 4)
+  (setq default-tab-width 2)
   (run-hooks 'chuck-mode-hook))
 
 (provide 'chuck-mode)
